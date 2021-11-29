@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "583931464441",
+    "project_id": "gbvapp-476b6",
+    "storage_bucket": "gbvapp-476b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583931464441:android:e48df7942866c92e05f028",
+        "android_client_info": {
+          "package_name": "example.gbvapp.googlesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583931464441-9ohvcak18hkt3gejamj15ekcgt9oe384.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbBhyF_fl4pv6lvKBG4-AMS1Kkz65GjkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583931464441-9ohvcak18hkt3gejamj15ekcgt9oe384.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "583931464441-fgs0jhhub509d772vpc9p50r0ccknq95.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "example.gbvapp.googlesignin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
