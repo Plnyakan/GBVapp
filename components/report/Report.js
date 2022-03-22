@@ -140,7 +140,7 @@ import { schedulePushNotification } from '../notification/notification';
         </MapView>
         <View style={styles.searchBox}>
         <TextInput 
-          placeholder="Search here"
+          placeholder="Search  here"
           placeholderTextColor="#000"
           autoCapitalize="none"
           style={{flex:1,padding:0}}
